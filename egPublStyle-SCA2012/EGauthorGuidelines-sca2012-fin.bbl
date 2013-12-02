@@ -1,0 +1,158 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{\uppercase{MSKG05}}
+
+\bibitem[APKG07]{Adams:2007:ASP:1276377.1276437}
+\textsc{Adams B., Pauly M., Keiser R., Guibas L.~J.}:
+\newblock Adaptively sampled particle fluids.
+\newblock \emph{ACM Trans. Graph. 26}, 3 (July 2007).
+\newblock \href {http://dx.doi.org/10.1145/1276377.1276437}
+  {\path{doi:10.1145/1276377.1276437}}.
+
+\bibitem[CBP05]{Clavet:2005:PVF:1073368.1073400}
+\textsc{Clavet S., Beaudoin P., Poulin P.}:
+\newblock Particle-based viscoelastic fluid simulation.
+\newblock In \emph{Proceedings of the 2005 ACM SIGGRAPH/Eurographics symposium
+  on Computer animation} (2005), pp.~219--228.
+\newblock \href {http://dx.doi.org/10.1145/1073368.1073400}
+  {\path{doi:10.1145/1073368.1073400}}.
+
+\bibitem[CM11]{Chentanez:2011:REW:2010324.1964977}
+\textsc{Chentanez N., M\"{u}ller M.}:
+\newblock Real-time eulerian water simulation using a restricted tall cell
+  grid.
+\newblock \emph{ACM Trans. Graph. 30}, 4 (July 2011), 82:1--82:10.
+\newblock \href {http://dx.doi.org/10.1145/2010324.1964977}
+  {\path{doi:10.1145/2010324.1964977}}.
+
+\bibitem[CTG10]{Cohen:2010:IFS:1730804.1730807}
+\textsc{Cohen J.~M., Tariq S., Green S.}:
+\newblock Interactive fluid-particle simulation using translating eulerian
+  grids.
+\newblock In \emph{Proceedings of the 2010 ACM SIGGRAPH symposium on
+  Interactive 3D Graphics and Games} (New York, NY, USA, 2010), I3D '10, ACM,
+  pp.~15--22.
+\newblock \href {http://dx.doi.org/10.1145/1730804.1730807}
+  {\path{doi:10.1145/1730804.1730807}}.
+
+\bibitem[DG96]{Desbrun:1996:SPN:274976.274981}
+\textsc{Desbrun M., Gascuel M.-P.}:
+\newblock Smoothed particles: a new paradigm for animating highly deformable
+  bodies.
+\newblock In \emph{Proceedings of the Eurographics workshop on Computer
+  animation and simulation '96} (New York, NY, USA, 1996), Springer-Verlag New
+  York, Inc., pp.~61--76.
+
+\bibitem[FM96]{Foster:1996:RAL:244304.244315}
+\textsc{Foster N., Metaxas D.}:
+\newblock Realistic animation of liquids.
+\newblock \emph{Graph. Models Image Process. 58}, 5 (Sept. 1996), 471--483.
+\newblock \href {http://dx.doi.org/10.1006/gmip.1996.0039}
+  {\path{doi:10.1006/gmip.1996.0039}}.
+
+\bibitem[GLHB09]{CGF:CGF1562}
+\textsc{Gao Y., Li C.-F., Hu S.-M., Barsky B.~A.}:
+\newblock Simulating gaseous fluids with low and high speeds.
+\newblock \emph{Computer Graphics Forum 28}, 7 (2009), 1845--1852.
+\newblock \href {http://dx.doi.org/10.1111/j.1467-8659.2009.01562.x}
+  {\path{doi:10.1111/j.1467-8659.2009.01562.x}}.
+
+\bibitem[HHK08]{Hong:2008:API:1394332.1394340}
+\textsc{Hong W., House D.~H., Keyser J.}:
+\newblock Adaptive particles for incompressible fluid simulation.
+\newblock \emph{Vis. Comput. 24}, 7 (July 2008), 535--543.
+\newblock \href {http://dx.doi.org/10.1007/s00371-008-0234-z}
+  {\path{doi:10.1007/s00371-008-0234-z}}.
+
+\bibitem[HKK07]{Harada_Koshizuka_Kawaguchi_2007}
+\textsc{Harada T., Koshizuka S., Kawaguchi Y.}:
+\newblock Smoothed particle hydrodynamics on gpus.
+\newblock \emph{Structure} (2007), 1--8.
+
+\bibitem[KTJG08]{Kim:2008:WTF:1360612.1360649}
+\textsc{Kim T., Th\"{u}rey N., James D., Gross M.}:
+\newblock Wavelet turbulence for fluid simulation.
+\newblock \emph{ACM Trans. Graph. 27}, 3 (Aug. 2008), 50:1--50:6.
+\newblock \href {http://dx.doi.org/10.1145/1360612.1360649}
+  {\path{doi:10.1145/1360612.1360649}}.
+
+\bibitem[LGF04]{Losasso:2004:SWS:1015706.1015745}
+\textsc{Losasso F., Gibou F., Fedkiw R.}:
+\newblock Simulating water and smoke with an octree data structure.
+\newblock \emph{ACM Trans. Graph. 23}, 3 (Aug. 2004), 457--462.
+\newblock \href {http://dx.doi.org/10.1145/1015706.1015745}
+  {\path{doi:10.1145/1015706.1015745}}.
+
+\bibitem[MCG03]{Muller:2003:PFS:846276.846298}
+\textsc{M\"{u}ller M., Charypar D., Gross M.}:
+\newblock Particle-based fluid simulation for interactive applications.
+\newblock In \emph{Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium
+  on Computer animation} (Aire-la-Ville, Switzerland, Switzerland, 2003), SCA
+  '03, Eurographics Association, pp.~154--159.
+
+\bibitem[MGT{\etalchar{*}}11]{PG2011short:67-72:2011}
+\textsc{Makoto F., Go M., Toshiyuki A., Jun M., Hirokazu K.}:
+\newblock {A Fast Simulation Method Using SPH and Wavelet for
+  Sub-Particle-Scale Turbulent Flow}.
+\newblock pp.~67--72.
+\newblock \href {http://dx.doi.org/10.2312/PE/PG/PG2011short/067-072}
+  {\path{doi:10.2312/PE/PG/PG2011short/067-072}}.
+
+\bibitem[MSKG05]{Muller:2005:PFI:1073368.1073402}
+\textsc{M\"{u}ller M., Solenthaler B., Keiser R., Gross M.}:
+\newblock Particle-based fluid-fluid interaction.
+\newblock In \emph{Proceedings of the 2005 ACM SIGGRAPH/Eurographics symposium
+  on Computer animation} (New York, NY, USA, 2005), SCA '05, ACM, pp.~237--244.
+\newblock \href {http://dx.doi.org/10.1145/1073368.1073402}
+  {\path{doi:10.1145/1073368.1073402}}.
+
+\bibitem[PTC{\etalchar{*}}10]{Pfaff:2010:SFS:1882261.1866196}
+\textsc{Pfaff T., Thuerey N., Cohen J., Tariq S., Gross M.}:
+\newblock Scalable fluid simulation using anisotropic turbulence particles.
+\newblock \emph{ACM Trans. Graph. 29}, 6 (Dec. 2010), 174:1--174:8.
+\newblock \href {http://dx.doi.org/10.1145/1882261.1866196}
+  {\path{doi:10.1145/1882261.1866196}}.
+
+\bibitem[SG11]{Solenthaler:2011:TPS:2010324.1964976}
+\textsc{Solenthaler B., Gross M.}:
+\newblock Two-scale particle simulation.
+\newblock \emph{ACM Trans. Graph. 30}, 4 (July 2011), 81:1--81:8.
+\newblock \href {http://dx.doi.org/10.1145/2010324.1964976}
+  {\path{doi:10.1145/2010324.1964976}}.
+
+\bibitem[SRF05]{Selle:2005:VPM:1073204.1073282}
+\textsc{Selle A., Rasmussen N., Fedkiw R.}:
+\newblock A vortex particle method for smoke, water and explosions.
+\newblock \emph{ACM Trans. Graph. 24}, 3 (July 2005), 910--914.
+\newblock \href {http://dx.doi.org/10.1145/1073204.1073282}
+  {\path{doi:10.1145/1073204.1073282}}.
+
+\bibitem[Sta99]{Stam:1999:SF:311535.311548}
+\textsc{Stam J.}:
+\newblock Stable fluids.
+\newblock In \emph{Proceedings of the 26th annual conference on Computer
+  graphics and interactive techniques} (New York, NY, USA, 1999), SIGGRAPH 99,
+  Addison-Wesley Publishing Co., pp.~121--128.
+\newblock \href {http://dx.doi.org/10.1145/311535.311548}
+  {\path{doi:10.1145/311535.311548}}.
+
+\bibitem[YWH{\etalchar{*}}09]{Yan:2009:RFS:1568678.1568695}
+\textsc{Yan H., Wang Z., He J., Chen X., Wang C., Peng Q.}:
+\newblock Real-time fluid simulation with adaptive sph.
+\newblock \emph{Comput. Animat. Virtual Worlds 20} (June 2009), 417--426.
+\newblock \href {http://dx.doi.org/10.1002/cav.v20:2/3}
+  {\path{doi:10.1002/cav.v20:2/3}}.
+
+\bibitem[ZB05]{Zhu:2005:ASF:1073204.1073298}
+\textsc{Zhu Y., Bridson R.}:
+\newblock Animating sand as a fluid.
+\newblock \emph{ACM Trans. Graph. 24}, 3 (July 2005), 965--972.
+\newblock \href {http://dx.doi.org/10.1145/1073204.1073298}
+  {\path{doi:10.1145/1073204.1073298}}.
+
+\bibitem[ZSP08]{Zhang:2008:ZSP:12345}
+\textsc{Zhang Y., Solenthaler B., Pajarola R.}:
+\newblock Adaptive sampling and rendering of fluids on the gpu.
+\newblock In \emph{Volume Graphics} (2008), Eurographics Association,
+  pp.~137--146.
+
+\end{thebibliography}

@@ -1,0 +1,61 @@
+\relax 
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces New EG Logo}}{1}{figure.1}}
+\newlabel{fig:teaser}{{1}{1}{New EG Logo\relax }{figure.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Works}{2}{section.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}SPH Model}{2}{section.3}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Adaptive Particle Fluid Simulation}{3}{section.4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Wavelet Energy}{3}{subsection.4.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces  Figure 2: Energy distribution in 2D}}{4}{figure.2}}
+\newlabel{fig:firstExample}{{2}{4}{Figure 2: Energy distribution in 2D\relax }{figure.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces  Figure 3: Surface particles in 2D.}}{4}{figure.3}}
+\newlabel{fig:firstExample}{{3}{4}{Figure 3: Surface particles in 2D}{figure.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Two Scale SPH Equation}{4}{subsection.4.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Merging and Splitting}{4}{subsection.4.3}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Implementation and Result}{4}{section.5}}
+\citation{Lous90}
+\citation{Lous90}
+\citation{Fellner-Helmberg93}
+\citation{Kobbelt97-USHDR}
+\citation{Lafortune97-NARF}
+\citation{Buhmann:1998:DCQ}
+\citation{FolDamFeiHug.etal93}
+\bibstyle{eg-alpha-doi}
+\bibdata{egbibsample}
+\bibcite{FolDamFeiHug.etal93}{FvDF{$^{*}$}93}
+\bibcite{Fellner-Helmberg93}{HJH93}
+\bibcite{Kobbelt97-USHDR}{KSS97}
+\bibcite{Lafortune97-NARF}{LFTG97}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces  Wavelet based Adaptive SPH}}{5}{algorithm.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Discussion and Future Work}{5}{section.6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}References}{5}{subsection.6.1}}
+\@writefile{brf}{\backcite{Lous90}{{5}{6.1}{subsection.6.1}}}
+\@writefile{brf}{\backcite{Lous90}{{5}{6.1}{subsection.6.1}}}
+\@writefile{brf}{\backcite{Fellner-Helmberg93}{{5}{6.1}{subsection.6.1}}}
+\@writefile{brf}{\backcite{Kobbelt97-USHDR}{{5}{6.1}{subsection.6.1}}}
+\@writefile{brf}{\backcite{Lafortune97-NARF}{{5}{6.1}{subsection.6.1}}}
+\@writefile{brf}{\backcite{Buhmann:1998:DCQ}{{5}{6.1}{subsection.6.1}}}
+\@writefile{brf}{\backcite{FolDamFeiHug.etal93}{{5}{6.1}{subsection.6.1}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Illustrations, graphs, and photographs}{5}{subsection.6.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces  Here is a sample figure.}}{5}{figure.4}}
+\newlabel{fig:firstExample}{{4}{5}{Here is a sample figure}{figure.4}{}}
+\@writefile{toc}{\contentsline {section}{References}{5}{figure.4}}
+\bibcite{Lous90}{Lou90}
+\bibcite{Buhmann:1998:DCQ}{ZFH{$^{*}$}98}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces For publications with color tables (i.e., publications not offering color throughout the paper) please \textbf  {observe}: for the printed version -- and ONLY for the printed version -- color figures have to be placed in the last page. \newline  For the electronic version, which will be converted to PDF before making it available electronically, the color images should be embedded within the document. Optionally, other multimedia material may be attached to the electronic version. }}{7}{figure.5}}
+\newlabel{fig:ex3}{{5}{7}{For publications with color tables (i.e., publications not offering color throughout the paper) please \textbf {observe}: for the printed version -- and ONLY for the printed version -- color figures have to be placed in the last page. \newline For the electronic version, which will be converted to PDF before making it available electronically, the color images should be embedded within the document. Optionally, other multimedia material may be attached to the electronic version}{figure.5}{}}
